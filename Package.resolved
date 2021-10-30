@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ThreadSafeContainer",
+        "repositoryURL": "https://github.com/djphoenix/ThreadSafeContainer.git",
+        "state": {
+          "branch": "main",
+          "revision": "86b9efb397517a107751249af7b4c1abc19e2b77",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
